@@ -26,10 +26,6 @@ namespace LibraryApi.Models.EntityModels
         /// The email of the person
         /// </summary>
         public string Email {get; set;}
-        /*/// <summary>
-        /// The phonenumber for the person
-        /// </summary>
-        public string PhoneNumber {get; set;}*/
         /// <summary>
         /// List of books on loan for this person
         /// </summary>
