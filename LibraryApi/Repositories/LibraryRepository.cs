@@ -45,7 +45,6 @@ namespace LibraryApi.Repositories
         {
             if(isDbEmpty("persons"))
             {
-                Console.WriteLine("Swag1");
                 using (StreamReader r = new StreamReader("Persons.json"))
                 {
                     string json = r.ReadToEnd();

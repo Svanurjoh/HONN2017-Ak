@@ -3861,11 +3861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Svanur\\HR\\5. Önn\\Hönnun og smíði\\Project\\LibraryApi\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\Svanur\\Documents\\GitHub\\HONN2017-Ak\\LibraryApi\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "D:\\Svanur\\HR\\5. Önn\\Hönnun og smíði\\Project\\LibraryApi\\Repositories\\Repositories.csproj",
+      "projectPath": "C:\\Users\\Svanur\\Documents\\GitHub\\HONN2017-Ak\\LibraryApi\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\Svanur\\.nuget\\packages\\",
-      "outputPath": "D:\\Svanur\\HR\\5. Önn\\Hönnun og smíði\\Project\\LibraryApi\\Repositories\\obj\\",
+      "outputPath": "C:\\Users\\Svanur\\Documents\\GitHub\\HONN2017-Ak\\LibraryApi\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3884,8 +3884,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Svanur\\HR\\5. Önn\\Hönnun og smíði\\Project\\LibraryApi\\Models\\Models.csproj": {
-              "projectPath": "D:\\Svanur\\HR\\5. Önn\\Hönnun og smíði\\Project\\LibraryApi\\Models\\Models.csproj"
+            "C:\\Users\\Svanur\\Documents\\GitHub\\HONN2017-Ak\\LibraryApi\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\Svanur\\Documents\\GitHub\\HONN2017-Ak\\LibraryApi\\Models\\Models.csproj"
             }
           }
         }
